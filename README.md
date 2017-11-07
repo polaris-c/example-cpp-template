@@ -1,2 +1,2 @@
-# example-c--template
+# example-c++-template
 c++ example about template 
