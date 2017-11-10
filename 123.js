@@ -1,0 +1,2 @@
+
+var newWord = "Hello Git!";
